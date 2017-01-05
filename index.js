@@ -29,33 +29,33 @@ var api = new ParseServer({
 	    // },
 	    ios:[
 	      {
-	        pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleKoreanChinese store.p12',
-	        bundleId: 'com.satoshogo.SimpleKoreanChinese',
+	        pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleJapaneseViet store.p12',
+	        bundleId: 'com.satoshogo.SimpleJapaneseViet',
 	        production: true
 	      },
 		    {
-	        pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleVietChinese store.p12',
-	        bundleId: 'com.satoshogo.SimpleVietChinese',
+	        pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleJapaneseKorean store.p12',
+	        bundleId: 'com.satoshogo.SimpleJapaneseKorean',
 	        production: true
 	      },
 		    {
-	        pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleEnglishChinese store.p12',
-	        bundleId: 'com.satoshogo.SimpleEnglishChinese',
+	        pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleEnglishArabic store.p12',
+	        bundleId: 'com.satoshogo.SimpleEnglishArabic',
 	        production: true
 	      },
 		    {
-	        pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleThaiChinese20160611 store.p12',
-	        bundleId: 'com.satoshogo.SimpleThaiChinese20160611',
+	        pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleEnglishTagalog store.p12',
+	        bundleId: 'com.satoshogo.SimpleEnglishTagalog',
 	        production: true
 	      },
 		    {
-	        pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleJapaneseChinese store.p12',
-	        bundleId: 'com.satoshogo.SimpleJapaneseChinese',
+	        pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleEnglishThai store.p12',
+	        bundleId: 'com.satoshogo.SimpleEnglishThai',
 	        production: true
 	      },
 	  {
-		pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleJapaneseEnglish store.p12', 
-	        bundleId: 'com.satoshogo.SimpleJapaneseEnglish',  
+		pfx: __dirname + '/iPhoneP12/com.satoshogo.SimpleJapaneseThai store.p12', 
+	        bundleId: 'com.satoshogo.SimpleJapaneseThai',  
 	        production: true
 	      }
 	       ]
